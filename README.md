@@ -1,6 +1,6 @@
 # Webpack3配置由简至全（一）
 
-标签（空格分隔）： webpack3 react
+标签： webpack3 react
 
 ---
 
