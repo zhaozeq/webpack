@@ -20,7 +20,8 @@ module.exports = {
                 test: /\.css$/, //根据正则匹配css后缀的文件
                 use: [
                     'style-loader',
-                    'css-loader'
+                    'css-loader',
+                    'postcss-loader'
                 ]
             },
             {
