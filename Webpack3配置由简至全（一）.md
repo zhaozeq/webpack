@@ -115,7 +115,7 @@ $ npm install html-webpack-plugin -D
     {
         test: [/\.bmp$/, /\.gif$/, /\.jpe?g$/, /\.png$/],
         loader: require.resolve('url-loader'),
-        options: {
+        options: { 
             limit: 1024,
             name: 'static/media/[name].[hash:8].[ext]',
         },
