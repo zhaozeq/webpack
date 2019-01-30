@@ -1,5 +1,7 @@
 # Webpack3配置由简至全（一）
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhaozeq/webpack.svg)](https://greenkeeper.io/)
+
 标签： webpack3 react
 
 ---
